@@ -1,4 +1,4 @@
-<marquee direction='right'> Capstone-Project-Amazon-datasets-</marquee>
+### Capstone-Project-Amazon-datasets-
 
 Project Title --> Amazon Products Review Data Analysis
 </br>
