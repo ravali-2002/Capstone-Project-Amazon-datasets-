@@ -15,7 +15,12 @@ EDA includes basic understanding of data through visuals. Analyzing and identify
 
 
 ### Modelling  --> 
-Building different models to meet the objective of the project like Sentiment Analysis , Customer retention, Demand Forecasting and Sentiment Forecasting . This models help us to get the requirement output that meets the objective
+Building different models to meet the objective of the project like Sentiment Analysis , Customer retention, Demand Forecasting and Sentiment Forecasting . 
+
+Sentiment Analysis is used to analyse and classify the sentiments of the reviews posted by the customers </br>
+Classification  is used to identify the cateogries that playing main role in retention </br>
+Demand Forecasting is used to forecast the demanded product </br>
+Sentiment Forecasting is used to predict sentiments of the demanded product
 
 
 
